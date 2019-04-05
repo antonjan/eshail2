@@ -1,1 +1,1 @@
-sudo nc -l 8011 | sudo rpitx -i- -m IQFLOAT -f 435400&
+sudo nc -l 8011 | sudo rpitx -i- -m IQFLOAT -f 145300&
