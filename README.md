@@ -1,5 +1,5 @@
 # eshail2
-This repository will have all teh Eshail2 (QO-100) Satellite configuration files.<br>
+This repository will have all the Eshail2 (QO-100) Satellite configuration files.<br>
 # Project Status
 Software<br>
 Working ssb transmitter for hackrf<br>
